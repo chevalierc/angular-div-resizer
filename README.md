@@ -25,7 +25,7 @@ Include the resizer module in your app and than configure the css.
     cursor: e-resize;
 }
 
-#sidebar-resizer:hover, #preview-resizer:hover {
+#sidebar-resizer:hover {
 	background-color: #AAA;
 }
 
