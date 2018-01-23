@@ -1,5 +1,5 @@
 # angular-div-resizer
-Drag horizontal and vertical div dividers using only angular. I stole this code from someone who had jquery being used internally. I replaced the jquery with angular for less depedencies. Unfortunatly I cannot find the origional to give credit.
+Drag horizontal and vertical div dividers using only angular. I stole this code from someone who had jquery being used internally. I replaced the jquery with angular for less depedencies: http://stackoverflow.com/questions/18368485/angular-js-resizable-div-directive
 
 ## Example
 
